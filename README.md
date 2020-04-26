@@ -10,3 +10,6 @@ Epigoni studio is the tool how the app definition was built.
 
 And now (while improving ruby and then rails) i'll try to access that metadata to generate web app code, of course this is huge work, but 
 a thousand miles journey is started by one simple step, right ? :)
+
+
+Hi there, i changed my mind, i think i will use python for the purpose
